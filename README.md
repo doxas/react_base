@@ -1,5 +1,3 @@
-# prexas
-
-react base presentation tool
+# react base
 
 
