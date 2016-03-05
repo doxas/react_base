@@ -1,5 +1,5 @@
-# react and flux base
+# prexas
 
-react base
+react base presentation tool
 
 
